@@ -172,10 +172,11 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		color:#999999;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #E6E6E6;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -3240,7 +3241,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: rgb(5, 5, 5);
 		}
 
 		.wrapper.style1-alt {
